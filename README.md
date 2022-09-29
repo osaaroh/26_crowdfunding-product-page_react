@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Crowdfunding-product-page_react
+
+F.E.M project to practice React and React Hooks. 
+
+##Issues To fix:
+-	Radio button does not fire a false event when unchecked, so I need to find a work around to set my radio buttons inactive with Javascript
+-	Add robust input validation (did only basic one to prevent undefined values)
+-	Redo project with Redux/React Query, to reduce the nested props
+
+
+[Live Demo](https://crowdfunding-product-page-rxt.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/f1a887ec-75c1-4c75-888e-25057d7aca85/deploy-status)](https://app.netlify.com/sites/crowdfunding-product-page-rxt/deploys)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
